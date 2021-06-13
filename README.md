@@ -3,7 +3,7 @@
             
 - 💻 All of my work is available at https://github.com/anshgupta0511
 - 👀 I’m interested in Machine Learning
-- 📫 How to reach me anshgupta0511@gmail.com
+- 📫 Reach me at anshgupta0511@gmail.com
 
 <!---
 anshgupta0511/anshgupta0511 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
