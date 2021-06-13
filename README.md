@@ -1,6 +1,6 @@
-            - 👋 Hi, I’m Ansh Gupta
-A passionate AI and Machine Learning enthusiast from India
-            (Open to job opportunities)
+#            - 👋 Hi, I’m Ansh Gupta
+# A passionate AI and Machine Learning enthusiast from India
+            
 - 💻 All of my work is available at https://github.com/anshgupta0511
 - 👀 I’m interested in Machine Learning
 - 📫 How to reach me anshgupta0511@gmail.com
