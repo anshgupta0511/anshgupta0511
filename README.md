@@ -8,7 +8,7 @@
 ## Connect with me:
 <a href="https://www.linkedin.com/in/ansh-gupta-0511/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
-<br />
+<img src="https://camo.githubusercontent.com/8004580d1ca563c5791bbf71546597302e1329fc4a198d35327aa9cde0541007/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e6368697467757074613232266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="anshgupta0511" data-canonical-src="https://komarev.com/ghpvc/?username=anshgupta0511&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width:100%;">
 
 ## 🧰 Languages and Tools:
 <p align="center">
@@ -24,7 +24,7 @@
 
 <img src='https://github-readme-stats.vercel.app/api?username=anshgupta0511&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515'>
 
-<br />
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anshgupta0511&theme=tokyonight)
 
