@@ -1,8 +1,8 @@
 #            - 👋 Hi, I’m Ansh Gupta
-## A passionate AI and Machine Learning enthusiast from India
+## A passionate Computer Science enthusiast from India
             
 - 💻 All of my work is available at https://github.com/anshgupta0511
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 📫 Reach me at anshgupta0511@gmail.com
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=anshgupta0511.anshgupta0511)
