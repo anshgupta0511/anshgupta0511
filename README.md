@@ -5,10 +5,11 @@
 - 👀 I’m interested in Machine Learning
 - 📫 Reach me at anshgupta0511@gmail.com
 
+![](https://visitor-badge.laobi.icu/badge?page_id=anshgupta0511.anshgupta0511)
 
 ## Connect with me:
 <p align="center">
-<a href="mailto:anshgupta0511@gmail.com"> <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:anshgupta0511@gmail.com"> <img src="https://pbs.twimg.com/media/ElXTrHcXEAACIZE.jpg" alt="Gmail" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.linkedin.com/in/ansh-gupta-0511/" target="_blank"> <img src="https://logoeps.com/wp-content/uploads/2012/03/linkedin-icon-logo-vector.png" alt="Linked in" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.facebook.com/profile.php?id=100007389969442" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1200px-Facebook_Logo_%282019%29.png" alt="Facebook" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://www.instagram.com/_ansh.gupta/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Linked in" height="40" style="vertical-align:top; margin:4px"></a>
