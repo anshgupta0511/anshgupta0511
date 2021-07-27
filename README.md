@@ -6,7 +6,7 @@
 - 📫 Reach me at anshgupta0511@gmail.com
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/ansh-gupta-0511/" target="_blank" rel="noopener noreferrer"> <img src="https://logoeps.com/wp-content/uploads/2012/03/linkedin-icon-logo-vector.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://www.linkedin.com/in/ansh-gupta-0511/" target="_blank"> <img src="https://logoeps.com/wp-content/uploads/2012/03/linkedin-icon-logo-vector.png" alt="Linked in" height="40" style="vertical-align:top; margin:4px"></a>
 
 ## 🧰 Languages and Tools:
 <p align="center">
