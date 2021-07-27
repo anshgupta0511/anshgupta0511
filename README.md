@@ -5,6 +5,7 @@
 - 👀 I’m interested in Machine Learning
 - 📫 Reach me at anshgupta0511@gmail.com
 
+## Profile views:
 ![](https://visitor-badge.laobi.icu/badge?page_id=anshgupta0511.anshgupta0511)
 
 ## Connect with me:
