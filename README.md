@@ -5,6 +5,8 @@
 - 👀 I’m interested in Machine Learning
 - 📫 Reach me at anshgupta0511@gmail.com
 
+![Visitor Count](https://profile-counter.glitch.me/{anshgupta0511}/count.svg)
+
 ## Connect with me:
 <a href="https://www.linkedin.com/in/ansh-gupta-0511/" target="_blank"> <img src="https://logoeps.com/wp-content/uploads/2012/03/linkedin-icon-logo-vector.png" alt="Linked in" height="40" style="vertical-align:top; margin:4px"></a>
 
