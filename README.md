@@ -1,5 +1,5 @@
 #            - 👋 Hi, I’m Ansh Gupta
-# A passionate AI and Machine Learning enthusiast from India
+## A passionate AI and Machine Learning enthusiast from India
             
 - 💻 All of my work is available at https://github.com/anshgupta0511
 - 👀 I’m interested in Machine Learning
@@ -15,7 +15,7 @@
 <a href="https://www.instagram.com/_ansh.gupta/" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-512.png" alt="Linked in" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-## 🧰 Languages and Tools:
+## Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" style="max-width:100%;" width="40" height="40">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" style="max-width:100%;" width="40" height="40">
